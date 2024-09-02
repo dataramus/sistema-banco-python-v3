@@ -54,7 +54,3 @@ Durante o desenvolvimento deste projeto, foram abordados os seguintes conceitos:
 ## 🏆 Desafio
 
 Este projeto foi desenvolvido como parte do Bootcamp NTT DATA - Engenharia de Dados com Python da [Digital Innovation One (DIO)](https://www.dio.me/).
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
